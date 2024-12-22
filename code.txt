@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Онлайн-марафон по программе Detox Plus от Coral Club. Очищение организма и укрепление здоровья. Присоединяйтесь сейчас!">
+    <meta name="keywords" content="Detox Plus, Coral Club, марафон здоровья, очищение организма">
+    <meta name="author" content="Coral Club">
+    <title>Марафон Detox Plus — Ваш путь к здоровью</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .btn {
+            display: inline-block;
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .btn:hover {
+            background: #45a049;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .reviews {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .reviews p {
+            font-style: italic;
+        }
+        .reviews strong {
+            display: block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Марафон здоровья с Detox Plus</h1>
+        <p>Очищение организма и укрепление здоровья за 30 дней</p>
+    </header>
+
+    <section>
+        <div class="container">
+            <h2>Почему стоит участвовать в марафоне?</h2>
+            <ul>
+                <li>Полностью онлайн: участвуйте из любого места</li>
+                <li>Поддержка нутрициологов и персонализированные рекомендации</li>
+                <li>Комьюнити для мотивации и обмена опытом</li>
+                <li>Улучшение самочувствия уже через 30 дней</li>
+            </ul>
+            <a href="https://de.coral.club/shop/coral-detox-plus.html?offer=803600&REF_CODE=964122076646" class="btn">Принять участие</a>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2>О программе Detox Plus</h2>
+            <p>Detox Plus — это программа глубокого очищения организма, созданная по концепции здоровья Coral Club. Продукт помогает избавиться от токсинов, улучшить обмен веществ, укрепить иммунитет и повысить уровень энергии.</p>
+            <a href="https://de.coral.club/shop/coral-detox-plus.html?offer=803600&REF_CODE=964122076646" class="btn">Узнать больше</a>
+        </div>
+    </section>
+
+    <section>
+        <div class="container reviews">
+            <h2>Отзывы участников</h2>
+            <p>“Уже через неделю я почувствовала лёгкость в теле! Программа Detox Plus действительно работает.”</p>
+            <strong>— Анна, 34 года</strong>
+            <p>“Отличный марафон! Интересные задания, полезная информация и ощутимый результат. Рекомендую всем!”</p>
+            <strong>— Игорь, 42 года</strong>
+            <p>“Здоровье улучшилось, самочувствие на высоте. Спасибо за профессиональную поддержку!”</p>
+            <strong>— Елена, 29 лет</strong>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2>Контакты</h2>
+            <p>📞 Телефон: +49 162 4 767574</p>
+            <p>📩 Напишите нам, и мы поможем вам начать!</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Coral Club. Все права защищены.</p>
+    </footer>
+</body>
+</html>
